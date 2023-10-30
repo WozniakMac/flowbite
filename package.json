@@ -1,6 +1,6 @@
 {
   "name": "flowbite",
-  "version": "1.8.1",
+  "version": "1.8.2",
   "description": "The most popular library of interactive components built with Tailwind CSS",
   "publishConfig": {
     "registry":"https://npm.pkg.github.com/"
