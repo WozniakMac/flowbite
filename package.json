@@ -1,5 +1,5 @@
 {
-  "name": "flowbite",
+  "name": "@WozniakMac/flowbite",
   "version": "1.8.2",
   "description": "The most popular library of interactive components built with Tailwind CSS",
   "publishConfig": {
