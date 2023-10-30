@@ -1,5 +1,5 @@
 {
-  "name": "@WozniakMac/flowbite",
+  "name": "@wozniakmac/flowbite",
   "version": "1.8.2",
   "description": "The most popular library of interactive components built with Tailwind CSS",
   "publishConfig": {
@@ -44,8 +44,8 @@
   "module": "lib/esm/index.js",
   "types": "lib/esm/index.d.ts",
   "style": "dist/flowbite.min.css",
-  "repository": "https://github.com/WozniakMac/flowbite.git",
-  "bugs": "https://github.com/WozniakMac/flowbite/issues",
+  "repository": "https://github.com/wozniakmac/flowbite.git",
+  "bugs": "https://github.com/wozniakmac/flowbite/issues",
   "homepage": "https://flowbite.com",
   "contributors": [
     "Zoltán Szőgyényi (https://twitter.com/zoltanszogyenyi)",
