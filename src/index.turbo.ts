@@ -28,21 +28,6 @@ const turboLoadEvents = new Events('turbo:load', [
 ]);
 turboLoadEvents.init();
 
-const turboFrameLoadEvents = new Events('turbo:frame-load', [
-    initAccordions,
-    initCollapses,
-    initCarousels,
-    initDismisses,
-    initDropdowns,
-    initModals,
-    initDrawers,
-    initTabs,
-    initTooltips,
-    initPopovers,
-    initDials,
-]);
-turboFrameLoadEvents.init();
-
 export default {
     Accordion,
     Carousel,
